@@ -1,21 +1,25 @@
-(\.|^)nflxext
-(\.|^)netflix
-(\.|^)nflximg
-(\.|^)nflxvideo
-(\.|^)nflxso
- 
-(\.|^)reddit
-(\.|^)redditstatic
-(\.|^)redditmedia
-(\.|^)redd
- 
-(\.|^)snapchat
-(\.|^)sc-cdn
-(\.|^)snap-dev
-(\.|^)snap kit
-(\.|^)snaps
- 
-(\.|^)twitch
-(\.|^)ttvnw
-(\.|^)jtvnw
-(\.|^)twitchcdn
+# This blocklist helps Adguard admin restrict access to netflix, reddit anf co and its domains.
+# Curated from sources online.
+
+nflxext.com
+netflix.com
+nflximg.net
+nflxvideo.net
+nflxso.net
+
+reddit.com
+redditstatic.com
+redditmedia.com
+redd.it
+
+snapchat.com
+sc-cdn.net
+snap-dev.net
+snapkit.co
+snapads.com
+impala-media-production.s3.amazonaws.com
+
+twitch.tv
+ttvnw.net
+jtvnw.net
+twitchcdn.net
