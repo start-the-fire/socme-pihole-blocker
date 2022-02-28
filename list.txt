@@ -1,21 +1,21 @@
-(\.|^)nflxext\.com$
-(\.|^)netflix\.com$
-(\.|^)nflximg\.net$
-(\.|^)nflxvideo\.net$
-(\.|^)nflxso\.net$
+(\.|^)nflxext
+(\.|^)netflix
+(\.|^)nflximg
+(\.|^)nflxvideo
+(\.|^)nflxso
  
-(\.|^)reddit\.com$
-(\.|^)redditstatic\.com$
-(\.|^)redditmedia\.com$
-(\.|^)redd\.it$
+(\.|^)reddit
+(\.|^)redditstatic
+(\.|^)redditmedia
+(\.|^)redd
  
-(\.|^)snapchat\.com$
-(\.|^)sc-cdn\.net$
-(\.|^)snap-dev\.net$
-(\.|^)snap kit\.co$
-(\.|^)snaps\.com$
+(\.|^)snapchat
+(\.|^)sc-cdn
+(\.|^)snap-dev
+(\.|^)snap kit
+(\.|^)snaps
  
-(\.|^)twitch\.tv$
-(\.|^)ttvnw\.net$
-(\.|^)jtvnw\.net$
-(\.|^)twitchcdn\.net$
+(\.|^)twitch
+(\.|^)ttvnw
+(\.|^)jtvnw
+(\.|^)twitchcdn
